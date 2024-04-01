@@ -1,0 +1,72 @@
+ .main-page {
+  background: #12212b;
+  height: 1024px;
+}
+.electro-craft {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Lato-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 201px;
+  top: 64px;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  width: 140px;
+  height: 114px;
+  position: absolute;
+  left: 30px;
+  top: 37px;
+}
+.text {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 45px;
+  font-weight: 400;
+  position: absolute;
+  left: 38px;
+  top: 211px;
+  width: 631px;
+}
+.log-in{
+  color: #ffffff;
+  position: absolute;
+  top: 45px;
+  left: 1130px;
+  cursor: pointer;
+  background-color: #12212b;
+}
+.register {
+  color: #ffffff;
+  position: absolute;
+  top: 45px;
+  left: 1210px;
+  cursor: pointer;
+  background-color: #12212b;
+}
+.primary-button {
+  color: #ffffff;
+  position: absolute;
+  cursor: pointer;
+  left: 300px;
+  top: 400px;
+  background-color: #12212b;
+}
+.log-in,.register{
+  color: #fff;
+}
+.primary-button{
+  color: #fff;
+}
+.log-in:hover,.register:hover{
+  color: #666666;
+}
+.primary-button:hover{
+  color: #666666;
+}
